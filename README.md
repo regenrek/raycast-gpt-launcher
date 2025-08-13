@@ -2,8 +2,6 @@
 
 A collection of Raycast scripts for quickly launching ChatGPT with different GPT-5 models and configurations.
 
-![ChatGPT Preview](public/GPT.jpg)
-
 ## Scripts Overview
 
 ### 🤖 chatgpt-5-auto.sh

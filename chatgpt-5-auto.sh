@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title ChatGPT 4o
+# @raycast.title ChatGPT 5 Auto
 # @raycast.mode silent
 # @raycast.argument1 { "type": "text", "placeholder": "Query (optional)", "optional": true }
 
@@ -11,12 +11,12 @@
 # @raycast.packageName ChatGPT
 
 # Documentation:
-# @raycast.description Opens ChatGPT with GPT-4o model
+# @raycast.description Opens ChatGPT with GPT-5 Auto model
 # @raycast.author kregenrek
 # @raycast.authorURL https://github.com/kregenrek
 
 # Base URL
-base_url="https://chatgpt.com/?model=gpt-4o"
+base_url="https://chatgpt.com/?model=gpt-5"
 
 # Check if query parameter is provided
 if [ -n "$1" ]; then

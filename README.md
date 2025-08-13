@@ -1,25 +1,31 @@
 # Raycast ChatGPT Launcher Scripts
 
-A collection of Raycast scripts for quickly launching ChatGPT with different models and configurations.
+A collection of Raycast scripts for quickly launching ChatGPT with different GPT-5 models and configurations.
 
 ![ChatGPT Preview](public/GPT.jpg)
 
 ## Scripts Overview
 
-### 🤖 chatgpt-4o.sh
-Opens ChatGPT with the GPT-4o model in your default browser. Optionally accepts a query parameter.
+### 🤖 chatgpt-5-auto.sh
+Opens ChatGPT with the GPT-5 Auto model in your default browser. Optionally accepts a query parameter.
 
-### 🤖 chatgpt-o3.sh
-Opens ChatGPT with the o3 model in your default browser. Optionally accepts a query parameter.
+### 🤖 chatgpt-5-fast.sh
+Opens ChatGPT with the GPT-5 Fast (Instant) model in your default browser. Optionally accepts a query parameter.
 
-### 🔒 chatgpt-temp-4o.sh
-Opens ChatGPT with GPT-4o model in temporary chat mode (no chat history saved). Optionally accepts a query parameter.
+### 🤖 chatgpt-5-thinking.sh
+Opens ChatGPT with the GPT-5 Thinking model in your default browser. Optionally accepts a query parameter.
 
-### 🔒 chatgpt-temp-o3.sh
-Opens ChatGPT with o3 model in temporary chat mode (no chat history saved). Optionally accepts a query parameter.
+### 🤖 chatgpt-5-pro.sh
+Opens ChatGPT with the GPT-5 Pro model in your default browser. Optionally accepts a query parameter.
 
-### ✏️ chatgpt-o3-grammar-fix.sh
-Opens ChatGPT with o3 model and a specialized grammar correction prompt. Takes text as input and provides:
+### 🔒 chatgpt-5-temp-instant.sh
+Opens ChatGPT with GPT-5 Fast model in temporary chat mode (no chat history saved). Optionally accepts a query parameter.
+
+### 🔒 chatgpt-temp-5-thinking.sh
+Opens ChatGPT with GPT-5 Thinking model in temporary chat mode (no chat history saved). Optionally accepts a query parameter.
+
+### ✏️ chatgpt-5-grammar-fix.sh
+Opens ChatGPT with GPT-5 Thinking model and a specialized grammar correction prompt. Takes text as input and provides:
 - Grammar and syntax corrections
 - Improved readability version
 - Three alternative style variations
